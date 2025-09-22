@@ -1,0 +1,20 @@
+# Inside Project_root repo
+data/
+src/__pycache__/
+src/train.py
+src/evaluate.py
+models/
+reports/metrics.json
+venv/
+
+data/
+models/
+reports/
+venv/
+src/__pycache__/
+*.pyc
+# Ignore all raw data files (large CSVs)
+Project_root/data/raw/m5-forecasting-accuracy/*.csv
+
+# Optionally ignore all other raw data (if you don’t want any raw files tracked)
+# Project_root/data/raw/*

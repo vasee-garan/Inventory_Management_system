@@ -1,0 +1,14 @@
+/project_root
+├── /data/
+│   ├── /raw/
+│   └── /processed/
+├── /src/
+│   ├── environment.py
+│   ├── agent.py
+│   ├── train.py
+│   ├── evaluate.py
+│   └── visualize.py
+├── /models/
+├── /reports/
+├── README.md
+└── requirements.txt
