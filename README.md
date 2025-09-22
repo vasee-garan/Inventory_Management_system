@@ -34,7 +34,7 @@ Project_root/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/inventory-rl.git
+git clone https://github.com/vasee-garan/Inventory_Management_system.git
 cd inventory-rl
 ```
 
